@@ -126,5 +126,8 @@
       }
     }
   },
-  "defaultProject": "snapface"
+  "defaultProject": "snapface",
+  "cli": {
+    "analytics": "61e18fb1-8da7-49fd-8e48-8d3375821c6a"
+  }
 }
